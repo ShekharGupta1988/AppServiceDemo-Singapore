@@ -1,1 +1,1 @@
-# AppServiceDemo-Singapore
+# AppServiceDemoApp : Tech Summit Singapore
